@@ -7,5 +7,5 @@ docker pull rpbro/easy-openwrt:1.0
 
 - aliyun repository
 ```shell script
-docker pull rpbro/easy-openwrt:1.0
+docker pull registry.cn-hangzhou.aliyuncs.com/rpbro/easy-openwrt:1.0
 ```
